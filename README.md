@@ -1,4 +1,4 @@
-![logo](https://github.com/KAKADIYAS/Intro_Page/blob/main/Tushal%20Kakadiya.gif)
+![logo](![Tushal_Kakadiya](https://github.com/user-attachments/assets/0dae5541-2713-43d2-8cf3-bb33e036a4df))
 
 <h1 align="center">Hi 👋, I'm Tushal Kakadiya</h1>
 <h3 align="center">Aspiring Data Science Student | Passionate about Extracting Insights from Data and create an Automation Intelligence
