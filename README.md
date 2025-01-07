@@ -1,7 +1,7 @@
 ![logo](https://github.com/user-attachments/assets/0dae5541-2713-43d2-8cf3-bb33e036a4df)
 
 <h1 align="center">Hi 👋, I'm Tushal Kakadiya</h1>
-<h3 align="center">Aspiring Data Science Student | Passionate about Extracting Insights from Data and create an Automation Intelligence
+<h3 align="center">Aspiring Computer Science Student at DIT | Passionate about Extracting Insights from Data and create an Automation Intelligence
 
 🌟 Welcome to my GitHub profile! 🌟
 
@@ -21,9 +21,9 @@
 </h3>
 <img align="right" alt="Coading" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KAKADIYAS&label=Profile%20views&color=0e75b6&style=flat" alt="Intro_Page" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KAKADIYAS&label=Profile%20views&color=0e75b6&style=flat" alt="KAKADIYAS" /> </p>
 
-- 🌱 I’m currently learning **Master's in Artificial Intelligence and Data Science at Deggendorf Institute of Technology, Germany**
+- 🌱 I’m currently learning **Master's in Computer Science at Deggendorf Institute of Technology, Germany**
 
 - 💬 Ask me about **Machine Learning, Tableau, NLP, Databases, Langchain, LangGraph, Generative AI**
 
@@ -37,8 +37,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KAKADIYAS&show_icons=true&locale=en&layout=compact" alt="Intro_Page" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KAKADIYAS&show_icons=true&locale=en&layout=compact" alt="KAKADIYAS" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KAKADIYAS&show_icons=true&locale=en" alt="Intro_Page" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KAKADIYAS&show_icons=true&locale=en" alt="KAKADIYAS" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KAKADIYAS&" alt="Intro_Page" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KAKADIYAS&" alt="KAKADIYAS" /></p>
