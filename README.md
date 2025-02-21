@@ -29,11 +29,12 @@
 
 - 📫 How to reach me **tp.kakadiya4@gmail.com**
 
-<h3 align="left">Connect with me:            Certificats:</h3> 
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://www.linkedin.com/in/tushal-kakadiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tushal-kakadiya/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Certificats:</h3> 
 <a href="https://kakadiyas.github.io/Certificates-Tushal-Kakadiya/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/1/000000/certificate.png" alt="Certificate Icon" height="30" width="40" /></a>
 </p>
 
