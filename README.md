@@ -34,8 +34,8 @@
 <a href="https://www.linkedin.com/in/tushal-kakadiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tushal-kakadiya/" height="30" width="40" /></a>
 </p>
 <h3 align="left">Certifications:</h3>
-<p align="left">
-<a href="https://kakadiyas.github.io/Certificates-Tushal-Kakadiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Certificate.svg" /></a>
+<p align="right">
+<a href="https://kakadiyas.github.io/Certificates-Tushal-Kakadiya/" target="blank"><img align="center" src=<img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" alt="Certificate Icon"> /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
