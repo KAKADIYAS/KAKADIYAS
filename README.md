@@ -35,7 +35,7 @@
 </p>
 <h3 align="left">Certificats:</h3>
 <p align="left">
-<a href="https://kakadiyas.github.io/Certificates-Tushal-Kakadiya/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/48/000000/certificate.png" alt="Certificate Icon" height="30" width="40" /></a>
+<a href="https://kakadiyas.github.io/Certificates-Tushal-Kakadiya/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/45/000000/certificate.png" alt="Certificate Icon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
