@@ -1,5 +1,5 @@
 
-<a href="https://www.linkedin.com/in/tushal-kakadiya/" target="blank">< ![logo](https://github.com/user-attachments/assets/0dae5541-2713-43d2-8cf3-bb33e036a4df)> 
+<a href="https://www.linkedin.com/in/tushal-kakadiya/" target="blank">< ![logo](https://github.com/user-attachments/assets/0dae5541-2713-43d2-8cf3-bb33e036a4df) /></a>
 
 
 <h1 align="center">Hi 👋, I'm Tushal Kakadiya</h1>
