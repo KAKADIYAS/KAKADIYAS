@@ -42,3 +42,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KAKADIYAS&show_icons=true&locale=en" alt="KAKADIYAS" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KAKADIYAS&" alt="KAKADIYAS" /></p>
+
+<a href= "https://kakadiyas.github.io/Certificates-Tushal-Kakadiya/" target="blank">
